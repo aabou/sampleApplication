@@ -1,0 +1,28 @@
+{
+    "health": {
+        "title": "تدقيقات الصحة",
+        "refresh.button": "تحديث",
+        "stacktrace": "تتبع المكدس",
+        "details": {
+            "details": "تفاصيل",
+            "properties": "الخصائص",
+            "name": "اسم",
+            "value": "القيمة",
+            "error": "خطأ"
+        },
+        "indicator": {
+            "binders": "Message broker",
+            "diskSpace": "مساحة القرص",
+            "mail": "البريد الإلكتروني",
+            "couchbase": "Couchbase"
+        },
+        "table": {
+            "service": "اسم الخدمة",
+            "status": "الحالة"
+        },
+        "status": {
+            "UP": "تشتغل",
+            "DOWN": "عاطلة"
+        }
+    }
+}
